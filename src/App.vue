@@ -110,7 +110,7 @@ export default {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url('./src/assets/bg.jpg') !important; /* Replace with path to your image */
+  background-image: url('../assets/bg.jpg') !important; /* Replace with path to your image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
